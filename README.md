@@ -9,7 +9,7 @@ Student Details:
 - Branch: CSM
 - Section: 3
 - Selected Case Studies
-Case Study Title\n
+Case Study Title
 1	Hospital Billing and Patient Classification.
 2	Retail Billing with Multiple Discount Rules.
 3	Multi-Currency Travel Budget Analysis.
